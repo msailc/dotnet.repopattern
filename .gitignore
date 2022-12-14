@@ -478,3 +478,5 @@ $RECYCLE.BIN/
 
 appsettings.json
 scoryapp.db
+scoryapp.db-shm
+scoryapp.db-wal
